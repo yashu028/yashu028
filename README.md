@@ -25,14 +25,14 @@ A results-driven Data Analyst with a strong foundation in statistics, SQL, and P
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <a href="https://github.com/yashu028">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashu028&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yash's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu028&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </a>
 
----
+--->
 
 ### 📫 Let's Connect!
 
